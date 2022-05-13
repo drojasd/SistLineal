@@ -5,4 +5,4 @@ Clase a clase del curso de sistemas lineales
 
 [Vista html del ejemplo de simulación](https://drojasd.github.io/SistLineal/auxDocs/rutinacsb.html "Ejemplo GSUA-CSB")
 
-[Vista html del ejemplo de linealización](https://drojasd.github.io/SistLineal/auxDocs/linealizacion.html "Ejemplo Péndulo")
+[Vista html del ejemplo de linealización + control SISO](https://drojasd.github.io/SistLineal/auxDocs/linealizacion.html "Ejemplo Péndulo")
